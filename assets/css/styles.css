@@ -346,7 +346,7 @@ img{
 @media screen and (max-width: 500px) {
   .home__img {
     width: 230px;
-    transform: translateX(10rem) !important;
+    transform: translateX(12rem) !important;
   }
 }
 
