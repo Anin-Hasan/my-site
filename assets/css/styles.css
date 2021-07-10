@@ -343,10 +343,10 @@ img{
 
 /* ===== MEDIA QUERIES =====*/
 /* For small devices */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
   .home__img {
     width: 230px;
-    transform: translateX(10rem);
+    transform: translateX(10rem) !important;
   }
 }
 
